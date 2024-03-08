@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backpackProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c537441f1c343f33a13f63915d30db9d9e95be4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb533f955e76869f148b14ca4807abff7b22018a")]
 [assembly: System.Reflection.AssemblyProductAttribute("backpackProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backpackProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
