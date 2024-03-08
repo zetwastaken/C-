@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("fizzbuzz")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("backpackProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c537441f1c343f33a13f63915d30db9d9e95be4")]
-[assembly: System.Reflection.AssemblyProductAttribute("fizzbuzz")]
-[assembly: System.Reflection.AssemblyTitleAttribute("fizzbuzz")]
+[assembly: System.Reflection.AssemblyProductAttribute("backpackProblem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("backpackProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
