@@ -12,3 +12,4 @@
 /Users/zet/C#/fizzbuzz/obj/Debug/net8.0/fizzbuzz.pdb
 /Users/zet/C#/fizzbuzz/obj/Debug/net8.0/fizzbuzz.genruntimeconfig.cache
 /Users/zet/C#/fizzbuzz/obj/Debug/net8.0/ref/fizzbuzz.dll
+/Users/zet/C#/fizzbuzz/obj/Debug/net8.0/fizzbuzz.sourcelink.json

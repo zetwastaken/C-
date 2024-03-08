@@ -1,5 +1,6 @@
 using System.Collections.Generic;
-
+[assembly: InternalsVisibleTo("backpackProblemTest")]
+[assembly: InternalsVisibleToAttribiute("backpackProblemTest")]
 namespace backpackProblem{
 
 class Item{
