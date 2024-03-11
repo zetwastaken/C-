@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "77Ny49zBco414SyfuZywKrzUO2xgWCdmE1kdtD+fwfi88o5w7g5xLfPyx9RwfDtaPa7QY5PvcOrYpCMoC8pq4A==",
+  "dgSpecHash": "4fh2ZDL0pjtxmSKTLBeqIkRbcVcRbahsQ61G9PwxqfxUlg7c35O7Jhw4uW1+zJbO4hFEFYcUF0Px7mLqn7OJIg==",
   "success": true,
-  "projectFilePath": "/Users/zet/C#/backPackProblemTest/backPackProblemTest.csproj",
+  "projectFilePath": "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj",
   "expectedPackageFiles": [
     "/Users/zet/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/zet/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

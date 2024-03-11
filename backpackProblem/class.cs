@@ -1,6 +1,7 @@
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("backpackProblemTest")]
-[assembly: InternalsVisibleToAttribiute("backpackProblemTest")]
+
 namespace backpackProblem{
 
 class Item{
@@ -41,25 +42,37 @@ class Result{
 
 class Problem{
  int n;
- int maxCapacity = 10;
+ public int maxCapacity;
  int seed;
- List<Item> items;
+ public List<Item> items;
  
-public Problem(int n, int seed){
-    this.n = n;
-    this.seed = seed;
-    items = new List<Item>();
-    Random rand = new Random(seed);
-    for (int i = 0; i < n; i++){
-        items.Add(new Item(rand.Next(1, 10), rand.Next(1, 10)));
-    }
-
+        public Problem(int n, int seed, int maxCapacity=10)
+        {
+            this.n = n;
+            this.seed = seed;
+            this.maxCapacity = maxCapacity;
+            items = new List<Item>();
+            Random rand = new Random(seed);
+            for (int i = 0; i < n; i++)
+            {
+                items.Add(new Item(rand.Next(1, 10), rand.Next(1, 10)));
+            }
+            items.Sort((x, y) => y.ratio.CompareTo(x.ratio));
 }
 
 
 public Result solve(){
     Result resultTemp;
-    items.Sort((x, y) => y.ratio.CompareTo(x.ratio));
+    // items.Sort((x, y) => y.ratio.CompareTo(x.ratio));
+    items.Sort((x, y) =>
+    {
+        int ratioComparison = y.ratio.CompareTo(x.ratio);
+        if (ratioComparison == 0)
+        {
+            return y.value.CompareTo(x.value);
+        }
+        return ratioComparison;
+    });
     resultTemp = new Result(new List<Item>());
     int weight = 0;
     foreach (Item item in items){

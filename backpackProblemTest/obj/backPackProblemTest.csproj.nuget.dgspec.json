@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zet/C#/backPackProblemTest/backPackProblemTest.csproj": {}
+    "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj": {}
   },
   "projects": {
     "/Users/zet/C#/backpackProblem/backpackProblem.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/zet/C#/backPackProblemTest/backPackProblemTest.csproj": {
+    "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zet/C#/backPackProblemTest/backPackProblemTest.csproj",
-        "projectName": "backPackProblemTest",
-        "projectPath": "/Users/zet/C#/backPackProblemTest/backPackProblemTest.csproj",
+        "projectUniqueName": "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj",
+        "projectName": "backpackProblemTest",
+        "projectPath": "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj",
         "packagesPath": "/Users/zet/.nuget/packages/",
-        "outputPath": "/Users/zet/C#/backPackProblemTest/obj/",
+        "outputPath": "/Users/zet/C#/backpackProblemTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zet/.nuget/NuGet/NuGet.Config"

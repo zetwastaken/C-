@@ -103,7 +103,6 @@
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backPackProblemTest.AssemblyInfo.cs
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backPackProblemTest.csproj.CoreCompileInputs.cache
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backPackProblemTest.sourcelink.json
-/Users/zet/C#/backPackProblemTest/obj/Debug/net8.0/backPack.31292270.Up2Date
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backPackProblemTest.dll
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/refint/backPackProblemTest.dll
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backPackProblemTest.pdb
@@ -115,3 +114,4 @@
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.pdb
+/Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backpack.C67425ED.Up2Date
