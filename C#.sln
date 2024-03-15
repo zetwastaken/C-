@@ -5,11 +5,13 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fizzbuzz", "fizzbuzz\fizzbuzz.csproj", "{B9E89EDD-D73A-439D-AEDF-0DD3C43A4D55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backpackProblem", "backpackProblem\backpackProblem.csproj", "{0DA558E9-B1AF-4576-8E04-E9D0EAE2A190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backpackProblem", "backpackProblem\backpackProblem.csproj", "{0DA558E9-B1AF-4576-8E04-E9D0EAE2A190}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backpackProblem", "backpackProblem", "{E53A9C3D-DE68-4CA2-A4BC-6EB3FA25A107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backpackProblemTest", "backpackProblemTest\backpackProblemTest.csproj", "{77750C51-38AD-4764-AC1E-D338A07AE8FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backpackProblemTest", "backpackProblemTest\backpackProblemTest.csproj", "{77750C51-38AD-4764-AC1E-D338A07AE8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backpackProblemGUI", "backpackProblemGUI\backpackProblemGUI.csproj", "{0670B7F3-86FC-4324-BA7E-77504A76608B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{77750C51-38AD-4764-AC1E-D338A07AE8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77750C51-38AD-4764-AC1E-D338A07AE8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77750C51-38AD-4764-AC1E-D338A07AE8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

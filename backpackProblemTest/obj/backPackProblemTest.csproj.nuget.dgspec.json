@@ -1,93 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj": {}
+    "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblemTest\\backpackProblemTest.csproj": {}
   },
   "projects": {
-    "/Users/zet/C#/backpackProblem/backpackProblem.csproj": {
+    "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblemTest\\backpackProblemTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zet/C#/backpackProblem/backpackProblem.csproj",
-        "projectName": "backpackProblem",
-        "projectPath": "/Users/zet/C#/backpackProblem/backpackProblem.csproj",
-        "packagesPath": "/Users/zet/.nuget/packages/",
-        "outputPath": "/Users/zet/C#/backpackProblem/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/zet/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj",
+        "projectUniqueName": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblemTest\\backpackProblemTest.csproj",
         "projectName": "backpackProblemTest",
-        "projectPath": "/Users/zet/C#/backpackProblemTest/backpackProblemTest.csproj",
-        "packagesPath": "/Users/zet/.nuget/packages/",
-        "outputPath": "/Users/zet/C#/backpackProblemTest/obj/",
+        "projectPath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblemTest\\backpackProblemTest.csproj",
+        "packagesPath": "C:\\Users\\matiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblemTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zet/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\matiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/zet/C#/backpackProblem/backpackProblem.csproj": {
-                "projectPath": "/Users/zet/C#/backpackProblem/backpackProblem.csproj"
+              "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj": {
+                "projectPath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj"
               }
             }
           }
@@ -140,7 +82,67 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj",
+        "projectName": "backpackProblem",
+        "projectPath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj",
+        "packagesPath": "C:\\Users\\matiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

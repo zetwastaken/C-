@@ -13,3 +13,17 @@
 /Users/zet/C#/backpackProblem/obj/Debug/net8.0/backpackProblem.pdb
 /Users/zet/C#/backpackProblem/obj/Debug/net8.0/backpackProblem.genruntimeconfig.cache
 /Users/zet/C#/backpackProblem/obj/Debug/net8.0/ref/backpackProblem.dll
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\bin\Debug\net8.0\backpackProblem.exe
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\bin\Debug\net8.0\backpackProblem.deps.json
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\bin\Debug\net8.0\backpackProblem.runtimeconfig.json
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\bin\Debug\net8.0\backpackProblem.dll
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\bin\Debug\net8.0\backpackProblem.pdb
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.AssemblyInfoInputs.cache
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.AssemblyInfo.cs
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.csproj.CoreCompileInputs.cache
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.dll
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\refint\backpackProblem.dll
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.pdb
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\backpackProblem.genruntimeconfig.cache
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblem\obj\Debug\net8.0\ref\backpackProblem.dll

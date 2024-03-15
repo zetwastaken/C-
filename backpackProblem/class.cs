@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
-[assembly: InternalsVisibleTo("backpackProblemTest")]
+[assembly: InternalsVisibleTo("backpackProblemTest"), InternalsVisibleTo("backpackProblemGUI")]
 
 namespace backpackProblem{
 
@@ -46,7 +46,7 @@ class Problem{
  int seed;
  public List<Item> items;
  
-        public Problem(int n, int seed, int maxCapacity=10)
+        public Problem(int n, int seed, int maxCapacity=10, int minValue=1, int maxValue=10)
         {
             this.n = n;
             this.seed = seed;
@@ -55,7 +55,7 @@ class Problem{
             Random rand = new Random(seed);
             for (int i = 0; i < n; i++)
             {
-                items.Add(new Item(rand.Next(1, 10), rand.Next(1, 10)));
+                items.Add(new Item(rand.Next(minValue, maxValue), rand.Next(minValue, maxValue)));
             }
             items.Sort((x, y) => y.ratio.CompareTo(x.ratio));
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WWPydOaGpvDDv0OQZCVHmCd94gqh+UVQhzmipPQI4wHLefe29/7o2uxAv7+/je2l5+80VPGISM+WZ0FqA06OWQ==",
+  "dgSpecHash": "/BaGBNijgeDsYlLfMmF8qNhnIRuEwv7uJLvrRnRBXXvrGe97/t+PONC/C97kXudlvbOlSEYz8MFkympaQVuxGQ==",
   "success": true,
-  "projectFilePath": "/Users/zet/C#/backpackProblem/backpackProblem.csproj",
+  "projectFilePath": "C:\\Users\\matiz\\Downloads\\C--main\\C--main\\backpackProblem\\backpackProblem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

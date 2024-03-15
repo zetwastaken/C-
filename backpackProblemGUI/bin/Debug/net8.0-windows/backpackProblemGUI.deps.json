@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "backpackProblemGUI/1.0.0": {
+        "dependencies": {
+          "backpackProblem": "1.0.0"
+        },
+        "runtime": {
+          "backpackProblemGUI.dll": {}
+        }
+      },
+      "backpackProblem/1.0.0": {
+        "runtime": {
+          "backpackProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "backpackProblemGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "backpackProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
