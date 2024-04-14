@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = backpackProblemTest
-build_property.ProjectDir = C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\
+build_property.ProjectDir = /Users/zet/Studia/C#/backpackProblemTest/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

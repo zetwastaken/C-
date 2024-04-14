@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backpackProblemTest", "back
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backpackProblemGUI", "backpackProblemGUI\backpackProblemGUI.csproj", "{0670B7F3-86FC-4324-BA7E-77504A76608B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{ABDC0951-7CC9-4285-932F-DB280A5A2FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0670B7F3-86FC-4324-BA7E-77504A76608B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDC0951-7CC9-4285-932F-DB280A5A2FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC0951-7CC9-4285-932F-DB280A5A2FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC0951-7CC9-4285-932F-DB280A5A2FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC0951-7CC9-4285-932F-DB280A5A2FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
