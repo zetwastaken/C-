@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithread", "Multithread\Multithread.csproj", "{B735B472-5524-4C8F-9101-304D9DBB1674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F7076DB-F12B-4811-9FDD-BD7FC2D7BC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B735B472-5524-4C8F-9101-304D9DBB1674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B735B472-5524-4C8F-9101-304D9DBB1674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B735B472-5524-4C8F-9101-304D9DBB1674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B735B472-5524-4C8F-9101-304D9DBB1674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

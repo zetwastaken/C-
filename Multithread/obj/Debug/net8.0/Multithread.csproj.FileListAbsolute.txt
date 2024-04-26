@@ -1,0 +1,15 @@
+/Users/zet/Studia/C#/Multithread/bin/Debug/net8.0/Multithread
+/Users/zet/Studia/C#/Multithread/bin/Debug/net8.0/Multithread.deps.json
+/Users/zet/Studia/C#/Multithread/bin/Debug/net8.0/Multithread.runtimeconfig.json
+/Users/zet/Studia/C#/Multithread/bin/Debug/net8.0/Multithread.dll
+/Users/zet/Studia/C#/Multithread/bin/Debug/net8.0/Multithread.pdb
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.AssemblyInfoInputs.cache
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.AssemblyInfo.cs
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.csproj.CoreCompileInputs.cache
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.sourcelink.json
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.dll
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/refint/Multithread.dll
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.pdb
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/Multithread.genruntimeconfig.cache
+/Users/zet/Studia/C#/Multithread/obj/Debug/net8.0/ref/Multithread.dll

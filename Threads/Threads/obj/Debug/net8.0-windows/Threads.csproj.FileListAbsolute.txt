@@ -1,0 +1,16 @@
+C:\Users\matiz\source\repos\Threads\Threads\bin\Debug\net8.0-windows\Threads.exe
+C:\Users\matiz\source\repos\Threads\Threads\bin\Debug\net8.0-windows\Threads.deps.json
+C:\Users\matiz\source\repos\Threads\Threads\bin\Debug\net8.0-windows\Threads.runtimeconfig.json
+C:\Users\matiz\source\repos\Threads\Threads\bin\Debug\net8.0-windows\Threads.dll
+C:\Users\matiz\source\repos\Threads\Threads\bin\Debug\net8.0-windows\Threads.pdb
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.Form1.resources
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.csproj.GenerateResource.cache
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.AssemblyInfoInputs.cache
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.AssemblyInfo.cs
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.csproj.CoreCompileInputs.cache
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.dll
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\refint\Threads.dll
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.pdb
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\Threads.genruntimeconfig.cache
+C:\Users\matiz\source\repos\Threads\Threads\obj\Debug\net8.0-windows\ref\Threads.dll
