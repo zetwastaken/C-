@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest wykorzystywany przez proces publikowania/pakowania projektu internetowego. Możesz dostosować zachowanie tego procesu
+ poprzez edycję tego pliku MSBuild. Aby dowiedzieć się więcej o tym działaniu, odwiedź stronę https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgZhzIeEJVUOdPGgXSND41gAAAAACAAAAAAAQZgAAAAEAACAAAADqc+LZMUljqAL4gS0XshGKj3YwdD8eFEpMZvq1ivWXmAAAAAAOgAAAAAIAACAAAAD4ZNjmso9UMPu1xGV9nyQav7a0qgZxX2pm2CB0AlFSJIAAAAAeeetCIIqZWRGGaMQDcRYIPPcMJj2Zidr6V3ywqSNfD7HSbpKk+YkYiKUsHXizIm4fnr4ERI0yXRd2jWgJhGREpaCCLxLz4pW9o9giaOQT3t7rjl3sfL6KQw9k3tw3XciA2q0UevepykkAyckSUd5LyW/0ZRzzmMTHofYiYs6b7EAAAAA/KTSra7UB5Wzo2+snBdWmHX1LN0c4vFkaV7XD8TsgxhuH6D3PrzD3+C5jgKuojifYDY88n6/HL80Q3AXXGTOr</EncryptedPassword>
+    <History>True|2024-05-19T18:20:30.7262842Z;True|2024-05-19T17:23:17.8694367+02:00;True|2024-05-19T16:28:35.9034653+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="webapplication.Data.ApplicationDbContext">
+      <Value>Data Source=nowydb123333.database.windows.net,1433%3bInitial Catalog=new%3bUser ID=Admin11%3bPassword=Haslo12!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
