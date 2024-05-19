@@ -1,0 +1,37 @@
+﻿@page "/movies"
+@using Microsoft.AspNetCore.Components.QuickGrid
+@inject webapplication.Data.ApplicationDbContext DB
+@using webapplication.Data
+@using Microsoft.EntityFrameworkCore
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="movies/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="DB.Movies" Sortable="true" SortColumn="@SortColumn" SortAscending="@SortAscending">
+    <PropertyColumn Property="movie => movie.Title" Sortable="true" />
+    <PropertyColumn Property="movie => movie.ReleaseDate" Sortable="true" />
+    <PropertyColumn Property="movie => movie.Rate" Sortable="true" />
+    <PropertyColumn Property="movie => movie.ImageUrl" />
+
+    <TemplateColumn Context="movie">
+        <a href="@($"movies/edit?id={movie.Id}")">Edit</a> |
+        <a href="@($"movies/details?id={movie.Id}")">Details</a> |
+        <a href="@($"movies/delete?id={movie.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>
+
+@code {
+    private string SortColumn { get; set; }
+    private bool SortAscending { get; set; }
+
+    private void SortChanged(string column, bool ascending)
+    {
+        SortColumn = column;
+        SortAscending = ascending;
+    }
+}
