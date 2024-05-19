@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/zet/Studia/C#/webApp/obj/Debug/net8.0/scopedcss/projectbundle/webApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/webApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/zet/Studia/C#/webApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/zet/Studia/C#/webApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/zet/Studia/C#/webApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/zet/Studia/C#/webApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.webApp.props",
+      "PackagePath": "build\\webApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.webApp.props",
+      "PackagePath": "buildMultiTargeting\\webApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.webApp.props",
+      "PackagePath": "buildTransitive\\webApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.webApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
