@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\backpackProblem\backpackProblem.csproj" />
+    <ProjectReference Include="..\Java1.backpackProblem\Java1.backpackProblem.csproj" />
   </ItemGroup>
 
 </Project>

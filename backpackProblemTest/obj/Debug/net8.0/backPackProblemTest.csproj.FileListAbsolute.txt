@@ -1,7 +1,7 @@
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/CoverletSourceRootsMapping_backpackProblemTest
-/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.deps.json
-/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.runtimeconfig.json
-/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem
+/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Java1.backpackProblem.deps.json
+/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Java1.backpackProblem.runtimeconfig.json
+/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Java1.backpackProblem
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll
@@ -99,9 +99,9 @@
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.dll
+/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Java1.backpackProblem.dll
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/backpackProblem.pdb
+/Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Java1.backpackProblem.pdb
 /Users/zet/C#/backpackProblemTest/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backpackProblemTest.csproj.AssemblyReference.cache
 /Users/zet/C#/backpackProblemTest/obj/Debug/net8.0/backpackProblemTest.GeneratedMSBuildEditorConfig.editorconfig
@@ -120,9 +120,9 @@ C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\te
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
-C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblem.deps.json
-C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblem.runtimeconfig.json
-C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblem.exe
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Java1.backpackProblem.deps.json
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Java1.backpackProblem.runtimeconfig.json
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Java1.backpackProblem.exe
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\testhost.exe
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblemTest.deps.json
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblemTest.runtimeconfig.json
@@ -217,9 +217,9 @@ C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\ru
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
-C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblem.dll
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Java1.backpackProblem.dll
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\backpackProblem.pdb
+C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Java1.backpackProblem.pdb
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\obj\Debug\net8.0\backpackProblemTest.csproj.AssemblyReference.cache
 C:\Users\matiz\Downloads\C--main\C--main\backpackProblemTest\obj\Debug\net8.0\backpackProblemTest.GeneratedMSBuildEditorConfig.editorconfig

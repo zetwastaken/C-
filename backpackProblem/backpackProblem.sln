@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backpackProblem", "backpackProblem.csproj", "{42AC681A-E036-47FA-BA4E-89800CFE543E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Java1.backpackProblem", "Java1.backpackProblem.csproj", "{42AC681A-E036-47FA-BA4E-89800CFE543E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
